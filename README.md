@@ -1,1 +1,1 @@
-echo "# translator"
+# Translator
